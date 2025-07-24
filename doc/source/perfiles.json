@@ -1,6 +1,22 @@
-[  {    Perfil: "IPE 80",    "h_mm": 80,    "b_mm": 46,    "tw_mm": 3.8,    "tf_mm": 5.2,    "r_mm": 5,    "d_mm": 59.6,    "A_cm2": 7.64,    "G_Kg/m1": 6,    "Iy_cm4": 80.14,    "Wy_cm3": 20.03,    "iy_cm1": 3.24,    "Iz_cm4": 8.49,    "Wz_cm3": 3.69,    "iz_cm1": 1.05,  },
+[
+{    
+"Perfil": "IPE 80",
+"h_mm": 80,
+"b_mm": 46,
+"tw_mm": 3.8,
+"tf_mm": 5.2,
+"r_mm": 5,
+"d_mm": 59.6,
+"A_cm2": 7.64,
+"G_Kg/m1": 6,
+"Iy_cm4": 80.14,
+"Wy_cm3": 20.03,
+"iy_cm1": 3.24,
+"Iz_cm4": 8.49,
+"Wz_cm3": 3.69,
+"iz_cm1": 1.05,  },
   {
-    Perfil: "IPE 100",
+    "Perfil": "IPE 100",
     "h_mm": 100,
     "b_mm": 55,
     "tw_mm": 4.1,
@@ -17,7 +33,7 @@
     "iz_cm1": 1.24,
   },
   {
-    Perfil: "IPE 120",
+    "Perfil": "IPE 120",
     "h_mm": 120,
     "b_mm": 64,
     "tw_mm": 4.4,
@@ -34,7 +50,7 @@
     "iz_cm1": 1.45,
   },
   {
-    Perfil: "IPE 140",
+    "Perfil": "IPE 140",
     "h_mm": 140,
     "b_mm": 73,
     "tw_mm": 4.7,
@@ -51,7 +67,7 @@
     "iz_cm1": 1.65,
   },
   {
-    Perfil: "IPE 160",
+    "Perfil": "IPE 160",
     "h_mm": 160,
     "b_mm": 82,
     "tw_mm": 5,
@@ -68,7 +84,7 @@
     "iz_cm1": 1.84,
   },
   {
-    Perfil: "IPE 180",
+    "Perfil": "IPE 180",
     "h_mm": 180,
     "b_mm": 91,
     "tw_mm": 5.3,
@@ -85,7 +101,7 @@
     "iz_cm1": 2.05,
   },
   {
-    Perfil: "IPE 200",
+    "Perfil": "IPE 200",
     "h_mm": 200,
     "b_mm": 100,
     "tw_mm": 5.6,
@@ -102,7 +118,7 @@
     "iz_cm1": 2.24,
   },
   {
-    Perfil: "IPE 220",
+    "Perfil": "IPE 220",
     "h_mm": 220,
     "b_mm": 110,
     "tw_mm": 5.9,
@@ -119,7 +135,7 @@
     "iz_cm1": 2.48,
   },
   {
-    Perfil: "IPE 240",
+    "Perfil": "IPE 240",
     "h_mm": 240,
     "b_mm": 120,
     "tw_mm": 6.2,
@@ -136,7 +152,7 @@
     "iz_cm1": 2.69,
   },
   {
-    Perfil: "IPE 270",
+    "Perfil": "IPE 270",
     "h_mm": 270,
     "b_mm": 135,
     "tw_mm": 6.6,
@@ -153,7 +169,7 @@
     "iz_cm1": 3.02,
   },
   {
-    Perfil: "IPE 300",
+    "Perfil": "IPE 300",
     "h_mm": 300,
     "b_mm": 150,
     "tw_mm": 7.1,
@@ -170,7 +186,7 @@
     "iz_cm1": 3.35,
   },
   {
-    Perfil: "IPE 330",
+    "Perfil": "IPE 330",
     "h_mm": 330,
     "b_mm": 160,
     "tw_mm": 7.5,
@@ -187,7 +203,7 @@
     "iz_cm1": 3.55,
   },
   {
-    Perfil: "IPE 360",
+    "Perfil": "IPE 360",
     "h_mm": 360,
     "b_mm": 170,
     "tw_mm": 8,
@@ -204,7 +220,7 @@
     "iz_cm1": 3.79,
   },
   {
-    Perfil: "IPE 400",
+    "Perfil": "IPE 400",
     "h_mm": 400,
     "b_mm": 180,
     "tw_mm": 8.6,
@@ -221,7 +237,7 @@
     "iz_cm1": 3.95,
   },
   {
-    Perfil: "IPE 450",
+    "Perfil": "IPE 450",
     "h_mm": 450,
     "b_mm": 190,
     "tw_mm": 9.4,
@@ -238,7 +254,7 @@
     "iz_cm1": 4.12,
   },
   {
-    Perfil: "IPE 500",
+    "Perfil": "IPE 500",
     "h_mm": 500,
     "b_mm": 200,
     "tw_mm": 10.2,
@@ -255,7 +271,7 @@
     "iz_cm1": 4.31,
   },
   {
-    Perfil: "IPE 550",
+    "Perfil": "IPE 550",
     "h_mm": 550,
     "b_mm": 210,
     "tw_mm": 11.1,
@@ -272,7 +288,7 @@
     "iz_cm1": 4.45,
   },
   {
-    Perfil: "IPE 600",
+    "Perfil": "IPE 600",
     "h_mm": 600,
     "b_mm": 220,
     "tw_mm": 12,
@@ -289,7 +305,7 @@
     "iz_cm1": 4.66,
   },
   {
-    Perfil: "IPN 80",
+    "Perfil": "IPN 80",
     "h_mm": 80,
     "b_mm": 45,
     "tw = r1_mm": 3.9,
@@ -306,7 +322,7 @@
     "iz_cm1": 0.91,
   },
   {
-    Perfil: "IPN 100",
+    "Perfil": "IPN 100",
     "h_mm": 100,
     "b_mm": 50,
     "tw = r1_mm": 4.5,
@@ -323,7 +339,7 @@
     "iz_cm1": 1.07,
   },
   {
-    Perfil: "IPN 120",
+    "Perfil": "IPN 120",
     "h_mm": 120,
     "b_mm": 58,
     "tw = r1_mm": 5.1,
@@ -340,7 +356,7 @@
     "iz_cm1": 1.23,
   },
   {
-    Perfil: "IPN 140",
+    "Perfil": "IPN 140",
     "h_mm": 140,
     "b_mm": 66,
     "tw = r1_mm": 5.7,
@@ -357,7 +373,7 @@
     "iz_cm1": 1.4,
   },
   {
-    Perfil: "IPN 160",
+    "Perfil": "IPN 160",
     "h_mm": 160,
     "b_mm": 74,
     "tw = r1_mm": 6.3,
@@ -374,7 +390,7 @@
     "iz_cm1": 1.55,
   },
   {
-    Perfil: "IPN 180",
+    "Perfil": "IPN 180",
     "h_mm": 180,
     "b_mm": 82,
     "tw = r1_mm": 6.9,
@@ -391,7 +407,7 @@
     "iz_cm1": 1.71,
   },
   {
-    Perfil: "IPN 200",
+    "Perfil": "IPN 200",
     "h_mm": 200,
     "b_mm": 90,
     "tw = r1_mm": 7.5,
@@ -408,7 +424,7 @@
     "iz_cm1": 1.87,
   },
   {
-    Perfil: "IPN 220",
+    "Perfil": "IPN 220",
     "h_mm": 220,
     "b_mm": 98,
     "tw = r1_mm": 8.1,
@@ -425,7 +441,7 @@
     "iz_cm1": 2.02,
   },
   {
-    Perfil: "IPN 240",
+    "Perfil": "IPN 240",
     "h_mm": 240,
     "b_mm": 106,
     "tw = r1_mm": 8.7,
@@ -442,7 +458,7 @@
     "iz_cm1": 2.2,
   },
   {
-    Perfil: "IPN 260",
+    "Perfil": "IPN 260",
     "h_mm": 260,
     "b_mm": 113,
     "tw = r1_mm": 9.4,
@@ -459,7 +475,7 @@
     "iz_cm1": 2.32,
   },
   {
-    Perfil: "IPN 280",
+    "Perfil": "IPN 280",
     "h_mm": 280,
     "b_mm": 119,
     "tw = r1_mm": 10.1,
@@ -476,7 +492,7 @@
     "iz_cm1": 2.45,
   },
   {
-    Perfil: "IPN 300",
+    "Perfil": "IPN 300",
     "h_mm": 300,
     "b_mm": 125,
     "tw = r1_mm": 10.8,
@@ -493,7 +509,7 @@
     "iz_cm1": 2.56,
   },
   {
-    Perfil: "IPN 320",
+    "Perfil": "IPN 320",
     "h_mm": 320,
     "b_mm": 131,
     "tw = r1_mm": 11.5,
@@ -510,7 +526,7 @@
     "iz_cm1": 2.67,
   },
   {
-    Perfil: "IPN 340",
+    "Perfil": "IPN 340",
     "h_mm": 340,
     "b_mm": 137,
     "tw = r1_mm": 12.2,
@@ -527,7 +543,7 @@
     "iz_cm1": 2.8,
   },
   {
-    Perfil: "IPN 360",
+    "Perfil": "IPN 360",
     "h_mm": 360,
     "b_mm": 143,
     "tw = r1_mm": 13,
@@ -544,7 +560,7 @@
     "iz_cm1": 2.9,
   },
   {
-    Perfil: "IPN 380",
+    "Perfil": "IPN 380",
     "h_mm": 380,
     "b_mm": 149,
     "tw = r1_mm": 13.7,
@@ -561,7 +577,7 @@
     "iz_cm1": 3.02,
   },
   {
-    Perfil: "IPN 400",
+    "Perfil": "IPN 400",
     "h_mm": 400,
     "b_mm": 155,
     "tw = r1_mm": 14.6,
@@ -578,7 +594,7 @@
     "iz_cm1": 3.13,
   },
   {
-    Perfil: "IPN 450",
+    "Perfil": "IPN 450",
     "h_mm": 450,
     "b_mm": 170,
     "tw = r1_mm": 16.2,
@@ -595,7 +611,7 @@
     "iz_cm1": 3.43,
   },
   {
-    Perfil: "IPN 500",
+    "Perfil": "IPN 500",
     "h_mm": 500,
     "b_mm": 185,
     "tw = r1_mm": 18,
@@ -612,7 +628,7 @@
     "iz_cm1": 3.71,
   },
   {
-    Perfil: "IPN 550",
+    "Perfil": "IPN 550",
     "h_mm": 550,
     "b_mm": 200,
     "tw = r1_mm": 19,
@@ -629,7 +645,7 @@
     "iz_cm1": 4.02,
   },
   {
-    Perfil: "IPN 600",
+    "Perfil": "IPN 600",
     "h_mm": 600,
     "b_mm": 215,
     "tw = r1_mm": 21.6,
@@ -646,7 +662,7 @@
     "iz_cm1": 4.3,
   },
   {
-    Perfil: "HEA 100",
+    "Perfil": "HEA 100",
     "h_mm": 96,
     "b_mm": 100,
     "tw_mm": 5,
@@ -663,7 +679,7 @@
     "iz_cm1": 2.51,
   },
   {
-    Perfil: "HEA 120",
+    "Perfil": "HEA 120",
     "h_mm": 114,
     "b_mm": 120,
     "tw_mm": 5,
@@ -680,7 +696,7 @@
     "iz_cm1": 3.02,
   },
   {
-    Perfil: "HEA 140",
+    "Perfil": "HEA 140",
     "h_mm": 133,
     "b_mm": 140,
     "tw_mm": 5.5,
@@ -697,7 +713,7 @@
     "iz_cm1": 3.52,
   },
   {
-    Perfil: "HEA 160",
+    "Perfil": "HEA 160",
     "h_mm": 152,
     "b_mm": 160,
     "tw_mm": 6,
@@ -714,7 +730,7 @@
     "iz_cm1": 3.98,
   },
   {
-    Perfil: "HEA 180",
+    "Perfil": "HEA 180",
     "h_mm": 171,
     "b_mm": 180,
     "tw_mm": 6,
@@ -731,7 +747,7 @@
     "iz_cm1": 4.52,
   },
   {
-    Perfil: "HEA 200",
+    "Perfil": "HEA 200",
     "h_mm": 190,
     "b_mm": 200,
     "tw_mm": 6.5,
@@ -748,7 +764,7 @@
     "iz_cm1": 4.98,
   },
   {
-    Perfil: "HEA 220",
+    "Perfil": "HEA 220",
     "h_mm": 210,
     "b_mm": 220,
     "tw_mm": 7,
@@ -765,7 +781,7 @@
     "iz_cm1": 5.51,
   },
   {
-    Perfil: "HEA 240",
+    "Perfil": "HEA 240",
     "h_mm": 230,
     "b_mm": 240,
     "tw_mm": 7.5,
@@ -782,7 +798,7 @@
     "iz_cm1": 6,
   },
   {
-    Perfil: "HEA 260",
+    "Perfil": "HEA 260",
     "h_mm": 250,
     "b_mm": 260,
     "tw_mm": 7.5,
@@ -799,7 +815,7 @@
     "iz_cm1": 6.5,
   },
   {
-    Perfil: "HEA 280",
+    "Perfil": "HEA 280",
     "h_mm": 270,
     "b_mm": 280,
     "tw_mm": 8,
@@ -816,7 +832,7 @@
     "iz_cm1": 7,
   },
   {
-    Perfil: "HEA 300",
+    "Perfil": "HEA 300",
     "h_mm": 290,
     "b_mm": 300,
     "tw_mm": 8.5,
@@ -833,7 +849,7 @@
     "iz_cm1": 7.47,
   },
   {
-    Perfil: "HEA 320",
+    "Perfil": "HEA 320",
     "h_mm": 310,
     "b_mm": 300,
     "tw_mm": 9,
@@ -850,7 +866,7 @@
     "iz_cm1": 7.51,
   },
   {
-    Perfil: "HEA 340",
+    "Perfil": "HEA 340",
     "h_mm": 330,
     "b_mm": 300,
     "tw_mm": 9.5,
@@ -867,7 +883,7 @@
     "iz_cm1": 7.46,
   },
   {
-    Perfil: "HEA 360",
+    "Perfil": "HEA 360",
     "h_mm": 350,
     "b_mm": 300,
     "tw_mm": 10,
@@ -884,7 +900,7 @@
     "iz_cm1": 7.43,
   },
   {
-    Perfil: "HEA 400",
+    "Perfil": "HEA 400",
     "h_mm": 390,
     "b_mm": 300,
     "tw_mm": 11,
@@ -901,7 +917,7 @@
     "iz_cm1": 7.34,
   },
   {
-    Perfil: "HEA 450",
+    "Perfil": "HEA 450",
     "h_mm": 440,
     "b_mm": 300,
     "tw_mm": 11.5,
@@ -918,7 +934,7 @@
     "iz_cm1": 7.29,
   },
   {
-    Perfil: "HEA 500",
+    "Perfil": "HEA 500",
     "h_mm": 490,
     "b_mm": 300,
     "tw_mm": 12,
@@ -935,7 +951,7 @@
     "iz_cm1": 7.24,
   },
   {
-    Perfil: "HEA 550",
+    "Perfil": "HEA 550",
     "h_mm": 540,
     "b_mm": 300,
     "tw_mm": 12.5,
@@ -952,7 +968,7 @@
     "iz_cm1": 7.15,
   },
   {
-    Perfil: "HEA 600",
+    "Perfil": "HEA 600",
     "h_mm": 590,
     "b_mm": 300,
     "tw_mm": 13,
@@ -969,7 +985,7 @@
     "iz_cm1": 7.05,
   },
   {
-    Perfil: "HEA 650",
+    "Perfil": "HEA 650",
     "h_mm": 640,
     "b_mm": 300,
     "tw_mm": 13.5,
@@ -986,7 +1002,7 @@
     "iz_cm1": 6.97,
   },
   {
-    Perfil: "HEA 700",
+    "Perfil": "HEA 700",
     "h_mm": 690,
     "b_mm": 300,
     "tw_mm": 14.5,
@@ -1003,7 +1019,7 @@
     "iz_cm1": 6.84,
   },
   {
-    Perfil: "HEA 800",
+    "Perfil": "HEA 800",
     "h_mm": 790,
     "b_mm": 300,
     "tw_mm": 15,
@@ -1020,7 +1036,7 @@
     "iz_cm1": 6.65,
   },
   {
-    Perfil: "HEA 900",
+    "Perfil": "HEA 900",
     "h_mm": 890,
     "b_mm": 300,
     "tw_mm": 16,
@@ -1037,7 +1053,7 @@
     "iz_cm1": 6.5,
   },
   {
-    Perfil: "HEA 1000",
+    "Perfil": "HEA 1000",
     "h_mm": 990,
     "b_mm": 300,
     "tw_mm": 16.5,
@@ -1054,7 +1070,7 @@
     "iz_cm1": 6.35,
   },
   {
-    Perfil: "HEB 100",
+    "Perfil": "HEB 100",
     "h_mm": 100,
     "b_mm": 100,
     "tw_mm": 6,
@@ -1071,7 +1087,7 @@
     "iz_cm1": 2.53,
   },
   {
-    Perfil: "HEB 120",
+    "Perfil": "HEB 120",
     "h_mm": 120,
     "b_mm": 120,
     "tw_mm": 6.5,
@@ -1088,7 +1104,7 @@
     "iz_cm1": 3.06,
   },
   {
-    Perfil: "HEB 140",
+    "Perfil": "HEB 140",
     "h_mm": 140,
     "b_mm": 140,
     "tw_mm": 7,
@@ -1105,7 +1121,7 @@
     "iz_cm1": 3.58,
   },
   {
-    Perfil: "HEB 160",
+    "Perfil": "HEB 160",
     "h_mm": 160,
     "b_mm": 160,
     "tw_mm": 8,
@@ -1122,7 +1138,7 @@
     "iz_cm1": 4.05,
   },
   {
-    Perfil: "HEB 180",
+    "Perfil": "HEB 180",
     "h_mm": 180,
     "b_mm": 180,
     "tw_mm": 8.5,
@@ -1139,7 +1155,7 @@
     "iz_cm1": 4.57,
   },
   {
-    Perfil: "HEB 200",
+    "Perfil": "HEB 200",
     "h_mm": 200,
     "b_mm": 200,
     "tw_mm": 9,
@@ -1156,7 +1172,7 @@
     "iz_cm1": 5.07,
   },
   {
-    Perfil: "HEB 220",
+    "Perfil": "HEB 220",
     "h_mm": 220,
     "b_mm": 220,
     "tw_mm": 9.5,
@@ -1173,7 +1189,7 @@
     "iz_cm1": 5.59,
   },
   {
-    Perfil: "HEB 240",
+    "Perfil": "HEB 240",
     "h_mm": 240,
     "b_mm": 240,
     "tw_mm": 10,
@@ -1190,7 +1206,7 @@
     "iz_cm1": 6.08,
   },
   {
-    Perfil: "HEB 260",
+    "Perfil": "HEB 260",
     "h_mm": 260,
     "b_mm": 260,
     "tw_mm": 10,
@@ -1207,7 +1223,7 @@
     "iz_cm1": 6.58,
   },
   {
-    Perfil: "HEB 280",
+    "Perfil": "HEB 280",
     "h_mm": 280,
     "b_mm": 280,
     "tw_mm": 10.5,
@@ -1224,7 +1240,7 @@
     "iz_cm1": 7.09,
   },
   {
-    Perfil: "HEB 300",
+    "Perfil": "HEB 300",
     "h_mm": 300,
     "b_mm": 300,
     "tw_mm": 11,
@@ -1241,7 +1257,7 @@
     "iz_cm1": 7.58,
   },
   {
-    Perfil: "HEB 320",
+    "Perfil": "HEB 320",
     "h_mm": 320,
     "b_mm": 300,
     "tw_mm": 11.5,
@@ -1258,7 +1274,7 @@
     "iz_cm1": 7.57,
   },
   {
-    Perfil: "HEB 340",
+    "Perfil": "HEB 340",
     "h_mm": 340,
     "b_mm": 300,
     "tw_mm": 12,
@@ -1275,7 +1291,7 @@
     "iz_cm1": 7.53,
   },
   {
-    Perfil: "HEB 360",
+    "Perfil": "HEB 360",
     "h_mm": 360,
     "b_mm": 300,
     "tw_mm": 12.5,
@@ -1292,7 +1308,7 @@
     "iz_cm1": 7.49,
   },
   {
-    Perfil: "HEB 400",
+    "Perfil": "HEB 400",
     "h_mm": 400,
     "b_mm": 300,
     "tw_mm": 13.5,
@@ -1309,7 +1325,7 @@
     "iz_cm1": 7.4,
   },
   {
-    Perfil: "HEB 450",
+    "Perfil": "HEB 450",
     "h_mm": 450,
     "b_mm": 300,
     "tw_mm": 14,
@@ -1326,7 +1342,7 @@
     "iz_cm1": 7.33,
   },
   {
-    Perfil: "HEB 500",
+    "Perfil": "HEB 500",
     "h_mm": 500,
     "b_mm": 300,
     "tw_mm": 14.5,
@@ -1343,7 +1359,7 @@
     "iz_cm1": 7.27,
   },
   {
-    Perfil: "HEB 550",
+    "Perfil": "HEB 550",
     "h_mm": 550,
     "b_mm": 300,
     "tw_mm": 15,
@@ -1360,7 +1376,7 @@
     "iz_cm1": 7.17,
   },
   {
-    Perfil: "HEB 600",
+    "Perfil": "HEB 600",
     "h_mm": 600,
     "b_mm": 300,
     "tw_mm": 15.5,
@@ -1377,7 +1393,7 @@
     "iz_cm1": 7.08,
   },
   {
-    Perfil: "HEB 650",
+    "Perfil": "HEB 650",
     "h_mm": 650,
     "b_mm": 300,
     "tw_mm": 16,
@@ -1394,7 +1410,7 @@
     "iz_cm1": 6.99,
   },
   {
-    Perfil: "HEB 700",
+    "Perfil": "HEB 700",
     "h_mm": 700,
     "b_mm": 300,
     "tw_mm": 17,
@@ -1411,7 +1427,7 @@
     "iz_cm1": 6.87,
   },
   {
-    Perfil: "HEB 800",
+    "Perfil": "HEB 800",
     "h_mm": 800,
     "b_mm": 300,
     "tw_mm": 17.5,
@@ -1428,7 +1444,7 @@
     "iz_cm1": 6.68,
   },
   {
-    Perfil: "HEB 900",
+    "Perfil": "HEB 900",
     "h_mm": 900,
     "b_mm": 300,
     "tw_mm": 18.5,
@@ -1445,7 +1461,7 @@
     "iz_cm1": 6.53,
   },
   {
-    Perfil: "HEB 1000",
+    "Perfil": "HEB 1000",
     "h_mm": 1000,
     "b_mm": 300,
     "tw_mm": 19,
@@ -1462,7 +1478,7 @@
     "iz_cm1": 6.38,
   },
   {
-    Perfil: "HEM 100",
+    "Perfil": "HEM 100",
     "h_mm": 120,
     "b_mm": 106,
     "tw_mm": 12,
@@ -1479,7 +1495,7 @@
     "iz_cm1": 2.74,
   },
   {
-    Perfil: "HEM 120",
+    "Perfil": "HEM 120",
     "h_mm": 140,
     "b_mm": 126,
     "tw_mm": 12.5,
@@ -1496,7 +1512,7 @@
     "iz_cm1": 3.25,
   },
   {
-    Perfil: "HEM 140",
+    "Perfil": "HEM 140",
     "h_mm": 160,
     "b_mm": 146,
     "tw_mm": 13,
@@ -1513,7 +1529,7 @@
     "iz_cm1": 3.77,
   },
   {
-    Perfil: "HEM 160",
+    "Perfil": "HEM 160",
     "h_mm": 180,
     "b_mm": 166,
     "tw_mm": 14,
@@ -1530,7 +1546,7 @@
     "iz_cm1": 4.26,
   },
   {
-    Perfil: "HEM 180",
+    "Perfil": "HEM 180",
     "h_mm": 200,
     "b_mm": 186,
     "tw_mm": 14.5,
@@ -1547,7 +1563,7 @@
     "iz_cm1": 4.77,
   },
   {
-    Perfil: "HEM 200",
+    "Perfil": "HEM 200",
     "h_mm": 220,
     "b_mm": 206,
     "tw_mm": 15,
@@ -1564,7 +1580,7 @@
     "iz_cm1": 5.27,
   },
   {
-    Perfil: "HEM 220",
+    "Perfil": "HEM 220",
     "h_mm": 240,
     "b_mm": 226,
     "tw_mm": 15.5,
@@ -1581,7 +1597,7 @@
     "iz_cm1": 5.79,
   },
   {
-    Perfil: "HEM 240",
+    "Perfil": "HEM 240",
     "h_mm": 270,
     "b_mm": 248,
     "tw_mm": 18,
@@ -1598,7 +1614,7 @@
     "iz_cm1": 6.39,
   },
   {
-    Perfil: "HEM 260",
+    "Perfil": "HEM 260",
     "h_mm": 290,
     "b_mm": 268,
     "tw_mm": 18,
@@ -1615,7 +1631,7 @@
     "iz_cm1": 6.9,
   },
   {
-    Perfil: "HEM 280",
+    "Perfil": "HEM 280",
     "h_mm": 310,
     "b_mm": 288,
     "tw_mm": 18.5,
@@ -1632,7 +1648,7 @@
     "iz_cm1": 7.4,
   },
   {
-    Perfil: "HEM 300",
+    "Perfil": "HEM 300",
     "h_mm": 340,
     "b_mm": 310,
     "tw_mm": 21,
@@ -1649,7 +1665,7 @@
     "iz_cm1": 8,
   },
   {
-    Perfil: "HEM 320",
+    "Perfil": "HEM 320",
     "h_mm": 359,
     "b_mm": 309,
     "tw_mm": 21,
@@ -1666,7 +1682,7 @@
     "iz_cm1": 7.95,
   },
   {
-    Perfil: "HEM 340",
+    "Perfil": "HEM 340",
     "h_mm": 377,
     "b_mm": 309,
     "tw_mm": 21,
@@ -1683,7 +1699,7 @@
     "iz_cm1": 7.9,
   },
   {
-    Perfil: "HEM 360",
+    "Perfil": "HEM 360",
     "h_mm": 395,
     "b_mm": 308,
     "tw_mm": 21,
@@ -1700,7 +1716,7 @@
     "iz_cm1": 7.83,
   },
   {
-    Perfil: "HEM 400",
+    "Perfil": "HEM 400",
     "h_mm": 432,
     "b_mm": 307,
     "tw_mm": 21,
@@ -1717,7 +1733,7 @@
     "iz_cm1": 7.7,
   },
   {
-    Perfil: "HEM 450",
+    "Perfil": "HEM 450",
     "h_mm": 478,
     "b_mm": 307,
     "tw_mm": 21,
@@ -1734,7 +1750,7 @@
     "iz_cm1": 7.59,
   },
   {
-    Perfil: "HEM 500",
+    "Perfil": "HEM 500",
     "h_mm": 524,
     "b_mm": 306,
     "tw_mm": 21,
@@ -1751,7 +1767,7 @@
     "iz_cm1": 7.46,
   },
   {
-    Perfil: "HEM 550",
+    "Perfil": "HEM 550",
     "h_mm": 572,
     "b_mm": 306,
     "tw_mm": 21,
@@ -1768,7 +1784,7 @@
     "iz_cm1": 7.35,
   },
   {
-    Perfil: "HEM 600",
+    "Perfil": "HEM 600",
     "h_mm": 620,
     "b_mm": 305,
     "tw_mm": 21,
@@ -1785,7 +1801,7 @@
     "iz_cm1": 7.22,
   },
   {
-    Perfil: "HEM 650",
+    "Perfil": "HEM 650",
     "h_mm": 668,
     "b_mm": 305,
     "tw_mm": 21,
@@ -1802,7 +1818,7 @@
     "iz_cm1": 7.13,
   },
   {
-    Perfil: "HEM 700",
+    "Perfil": "HEM 700",
     "h_mm": 716,
     "b_mm": 304,
     "tw_mm": 21,
@@ -1819,7 +1835,7 @@
     "iz_cm1": 7.01,
   },
   {
-    Perfil: "HEM 800",
+    "Perfil": "HEM 800",
     "h_mm": 814,
     "b_mm": 303,
     "tw_mm": 21,
@@ -1836,7 +1852,7 @@
     "iz_cm1": 6.79,
   },
   {
-    Perfil: "HEM 900",
+    "Perfil": "HEM 900",
     "h_mm": 910,
     "b_mm": 302,
     "tw_mm": 21,
@@ -1853,7 +1869,7 @@
     "iz_cm1": 6.6,
   },
   {
-    Perfil: "HEM 1000",
+    "Perfil": "HEM 1000",
     "h_mm": 1008,
     "b_mm": 302,
     "tw_mm": 21,
@@ -1870,7 +1886,7 @@
     "iz_cm1": 6.45,
   },
   {
-    Perfil: "UPN 80",
+    "Perfil": "UPN 80",
     "h_mm": 80,
     "b_mm": 45,
     "tw_mm": 6,
@@ -1887,7 +1903,7 @@
     "Wz_cm3": 6.36,
   },
   {
-    Perfil: "UPN 100",
+    "Perfil": "UPN 100",
     "h_mm": 100,
     "b_mm": 50,
     "tw_mm": 6,
@@ -1904,7 +1920,7 @@
     "Wz_cm3": 8.49,
   },
   {
-    Perfil: "UPN 120",
+    "Perfil": "UPN 120",
     "h_mm": 120,
     "b_mm": 55,
     "tw_mm": 7,
@@ -1921,7 +1937,7 @@
     "Wz_cm3": 11.1,
   },
   {
-    Perfil: "UPN 140",
+    "Perfil": "UPN 140",
     "h_mm": 140,
     "b_mm": 60,
     "tw_mm": 7,
@@ -1938,7 +1954,7 @@
     "Wz_cm3": 14.8,
   },
   {
-    Perfil: "UPN 160",
+    "Perfil": "UPN 160",
     "h_mm": 160,
     "b_mm": 65,
     "tw_mm": 7.5,
@@ -1955,7 +1971,7 @@
     "Wz_cm3": 18.3,
   },
   {
-    Perfil: "UPN 180",
+    "Perfil": "UPN 180",
     "h_mm": 180,
     "b_mm": 70,
     "tw_mm": 8,
@@ -1972,7 +1988,7 @@
     "Wz_cm3": 22.4,
   },
   {
-    Perfil: "UPN 200",
+    "Perfil": "UPN 200",
     "h_mm": 200,
     "b_mm": 75,
     "tw_mm": 8.5,
@@ -1989,7 +2005,7 @@
     "Wz_cm3": 27,
   },
   {
-    Perfil: "UPN 220",
+    "Perfil": "UPN 220",
     "h_mm": 220,
     "b_mm": 80,
     "tw_mm": 9,
@@ -2006,7 +2022,7 @@
     "Wz_cm3": 33.6,
   },
   {
-    Perfil: "UPN 240",
+    "Perfil": "UPN 240",
     "h_mm": 240,
     "b_mm": 85,
     "tw_mm": 9.5,
@@ -2023,7 +2039,7 @@
     "Wz_cm3": 39.6,
   },
   {
-    Perfil: "UPN 260",
+    "Perfil": "UPN 260",
     "h_mm": 260,
     "b_mm": 90,
     "tw_mm": 10,
@@ -2040,7 +2056,7 @@
     "Wz_cm3": 47.7,
   },
   {
-    Perfil: "UPN 280",
+    "Perfil": "UPN 280",
     "h_mm": 280,
     "b_mm": 95,
     "tw_mm": 10,
